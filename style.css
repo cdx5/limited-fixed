@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;	
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	letter-spacing: 0.025em;
+	padding: 15px 18px;
+}
+
+p {
+	max-width: 472px;
+	padding-bottom: 15px;
+}
+
+.container {
+	background-color: olive;
+	max-width: 472px;
+	height: 1416px;
+	margin-bottom: 18px;
+	position: relative;
+}
+
+.limited-fixed {
+	background-color: greenyellow;
+	padding: 0 3px;
+	position: absolute;
+}
+
+.extra-padding {
+	height: 472px;
+}
